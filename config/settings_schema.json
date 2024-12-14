@@ -34,7 +34,7 @@
     ]
   },
   {
-    "name": "Logo",
+    "name": "Custom component",
     "settings": [
       {
         "type": "image_picker",
