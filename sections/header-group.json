@@ -37,22 +37,6 @@
     },
     "header": {
       "type": "header",
-      "blocks": {
-        "recharge_subscriptions_gifting_buy_button_aPq4qM": {
-          "type": "shopify://apps/recharge-subscriptions/blocks/gifting-buy-button/371eed76-0b44-4869-9813-730372ea378e",
-          "settings": {
-            "rc_gift_button_text": "Send as gift",
-            "product": "",
-            "use_selected_product_url": false,
-            "horizontal_alignment": "center",
-            "max_width": 30,
-            "rc_gift_button_class": "button button--primary"
-          }
-        }
-      },
-      "block_order": [
-        "recharge_subscriptions_gifting_buy_button_aPq4qM"
-      ],
       "settings": {
         "logo_position": "middle-left",
         "menu": "main-menu",
